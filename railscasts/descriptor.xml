@@ -1,0 +1,15 @@
+<app>
+  <id>railscasts</id>
+  <name>Railscasts</name>
+  <version>1.0</version>
+  <description>Free Ruby on Rails screencasts brought to you by Ryan Bates</description>
+  <thumb>http://dl.dropbox.com/u/56335/boxee/railscasts_big_logo.png</thumb>
+  <repository>http://dir.boxee.tv/apps</repository>
+  <media>video</media>
+  <copyright>Philip Lee</copyright>
+  <email>philiplee@ph-lee.com</email>
+  <type>url</type>
+  <platform>all</platform>
+  <minversion>0.9.20</minversion>
+  <url>rss://feeds.feedburner.com/railscasts_ipod</url>
+</app>
